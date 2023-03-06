@@ -1,0 +1,8 @@
+name: 'Alex Tirdea'
+super: true
+id: 31721f72-2448-47c6-8231-5e45a414f60e
+password_hash: $2y$10$3HTBWoKwLNdXHnDI1Of/wexvQg0C6OTz/r9C5xrB4ZZgO2/0cilBO
+preferences:
+  collections:
+    pages:
+      after_save: continue_editing
