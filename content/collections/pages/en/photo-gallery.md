@@ -4,7 +4,7 @@ published: false
 blueprint: pages
 title: 'Photo Gallery'
 updated_by: 31721f72-2448-47c6-8231-5e45a414f60e
-updated_at: 1677856434
+updated_at: 1678105069
 content_blocks:
   -
     type: paragraph

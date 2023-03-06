@@ -20,18 +20,18 @@ return [
             'locale' => 'en_US',
             'url' => '/',
         ],
-
-        'de' => [
-            'name' => 'Die Flucht',
-            'locale' => 'de_DE',
-            'url' => '/de/',
-        ],
-
-        'fr' => [
-            'name' => "L'Escapade",
-            'locale' => 'fr_FR',
-            'url' => '/fr/',
-        ],
+//
+//        'de' => [
+//            'name' => 'Die Flucht',
+//            'locale' => 'de_DE',
+//            'url' => '/de/',
+//        ],
+//
+//        'fr' => [
+//            'name' => "L'Escapade",
+//            'locale' => 'fr_FR',
+//            'url' => '/fr/',
+//        ],
 
     ],
 ];
